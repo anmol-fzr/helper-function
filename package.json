@@ -1,0 +1,28 @@
+{
+  "name": "helper-function",
+  "version": "1.0.0",
+  "description": "common javascript helper functions used in every project ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-fzr/helper-function.git"
+  },
+  "keywords": [
+    "javascript",
+    "function",
+    "fast"
+  ],
+  "author": "anmol",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anmol-fzr/helper-function/issues"
+  },
+  "homepage": "https://github.com/anmol-fzr/helper-function#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
