@@ -1,6 +1,6 @@
 {
   "name": "helper-function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common javascript helper functions used in every project ",
   "main": "dist/index.js",
   "scripts": {
